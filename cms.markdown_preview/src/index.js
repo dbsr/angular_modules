@@ -8,7 +8,7 @@
 'use strict';
 
 
-angular.module('cms.markdown', [
+angular.module('cms.markdown_preview', [
     'ngSanitize',
     'hc.marked'
 ])

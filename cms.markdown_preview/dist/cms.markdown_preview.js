@@ -10,7 +10,7 @@
 'use strict';
 
 
-angular.module('cms.markdown', [
+angular.module('cms.markdown_preview', [
     'ngSanitize',
     'hc.marked'
 ])
@@ -65,7 +65,7 @@ angular.module('cms.markdown', [
       };
     }] );
 
-}).call(this,require("DF1urx"),typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {},require("buffer").Buffer,arguments[3],arguments[4],arguments[5],arguments[6],"/fake_8dd31eb.js","/")
+}).call(this,require("DF1urx"),typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {},require("buffer").Buffer,arguments[3],arguments[4],arguments[5],arguments[6],"/fake_75f98c64.js","/")
 },{"DF1urx":5,"buffer":2}],2:[function(require,module,exports){
 (function (process,global,Buffer,__argument0,__argument1,__argument2,__argument3,__filename,__dirname){
 /*!
