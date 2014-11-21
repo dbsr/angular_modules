@@ -1,5 +1,5 @@
 /*
- * name        : cmi.markdown
+ * name        : cmi.markdown_preview
  * author      : Daan Mathot (dydrmntion@gmail.com)
  * license     : see LICENSE
  */
